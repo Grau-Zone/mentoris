@@ -1,0 +1,13 @@
+Schriften dieses Prototyps (alle selbst gehostet, keine Anfragen an fremde Server)
+
+zodiak-var.woff2, zodiak-var-italic.woff2
+  Zodiak, Indian Type Foundry, bezogen über Fontshare (fontshare.com).
+  ITF Free Font License: frei für private und kommerzielle Nutzung, Einbettung im Web erlaubt.
+
+literata-var.woff2, literata-var-italic.woff2
+  Literata, TypeTogether für Google Fonts, bezogen über Fontsource (latin, variabel).
+  SIL Open Font License 1.1, siehe OFL.txt.
+
+schibsted-grotesk-var.woff2
+  Schibsted Grotesk, Schibsted Media / Bakken & Bæck, bezogen über Fontsource (latin, variabel).
+  SIL Open Font License 1.1, siehe OFL.txt.
